@@ -1,12 +1,8 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<div align="center">
+   <h1>
+       <a href="#"><img src="https://necord.org/img/logo.png"></a>
+   </h1>
+   🤖 A module for creating <b><a href="https://discord.com/">Discord</a> bots</b> using <a href="https://nestjs.com">NestJS</a>, based on <a href="https://discord.js.org/">Discord.js</a>
+   <br/><br/>
+   <a href="https://necord.org">Documentation ✨</a> &emsp; <a href="https://github.com/SocketSomeone/necord">Source code 🪡</a> &emsp; <a href="https://www.npmjs.com/package/necord">NPM 🚀</a>
+</div>
